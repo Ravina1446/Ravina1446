@@ -56,14 +56,18 @@
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ravina1446&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=Ravina1446&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravina1446&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Ravina1446&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1446&layout=compact&theme=radical" />
+</p>
 
 ## 🏆 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1446&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1446&layout=compact&theme=radical" />
+</p>
 
 ## 🏆 Achievements & Experience
 
@@ -86,14 +90,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-
-## 🔥 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ravina1446&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=Ravina1446&theme=radical)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1446&layout=compact&theme=radical)
 
 
 ⭐ Thanks for visiting my profile!
